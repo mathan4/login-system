@@ -1,4 +1,4 @@
-```
+
 # 📌 User Authentication API
 
 A simple Node.js + Express API for user signup, login, and protected routes using JWT.
@@ -78,4 +78,3 @@ Server will start running at:
 - JWT token must be passed in Authorization header.
 - Proper error handling is implemented.
 
-```
